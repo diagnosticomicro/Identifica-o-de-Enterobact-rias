@@ -1,8 +1,8 @@
-import streamlit as st
+robactériasimport streamlit as st
 
-st.set_page_config(page_title="Identificação de Bactérias", page_icon="🧫")
+st.set_page_config(page_title="Identificação de Entobactérias", page_icon="🧫")
 
-st.title("🦠 Identificação de Bactérias por Testes Bioquímicos")
+st.title("🦠 Identificação de Enterobactérias por Testes Bioquímicos")
 st.write("Preencha os campos abaixo com os resultados dos testes:")
 
 # Formulário
