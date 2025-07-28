@@ -44,5 +44,4 @@ tabela_identificacao = {
 if st.button("Identificar Bactéria"):
     especie = tabela_identificacao.get(dados, "Nenhuma correspondência encontrada.")
     st.success(f"Resultado: {especie}")
-    
-   st.write("Ferramenta em desenvolvimento por Priscila Alencar - Microbiologista")
+    print("Ferramenta em desenvolvimento por Priscila Alencar - Microbiologista")
